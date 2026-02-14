@@ -1,0 +1,7 @@
+{
+  "name": "MoodBuddy",
+  "description": "A supportive AI companion for kids and teens aged 6-16, offering helpful advice, fun activities, and a friendly ear based on your current mood.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
